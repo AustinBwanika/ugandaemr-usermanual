@@ -3,7 +3,7 @@ site_name: "Uganda EMR User Manual"
 site_description: "A guide on how to use our products for Uganda EMR"
 site_author: "METS Programme"
 site_url: "https://github.com/METS-Programme/ugandaemr-technicalguide/"  
-docs_dir: "."
+
 
 # Repository
 repo_name: "ugandaemr-usermanual"
@@ -25,4 +25,5 @@ theme:
 nav:
   - Home:
     - 'SUMMARY.md'
- 
+
+docs_dir: "."
