@@ -7,7 +7,7 @@ docs_dir: "."
 
 # Repository
 repo_name: "ugandaemr-usermanual"
-repo_url: "https://github.com/METS-Programme/ugandaemr-technicalguide"
+repo_url: "https://github.com/METS-Programme/ugandaemr-usermanual"
 
 # Copyright
 copyright: "Copyright © 2021 METS Programme"
